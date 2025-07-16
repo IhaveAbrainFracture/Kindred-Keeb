@@ -14,6 +14,11 @@ i more or less spent this day just brainstorming what i was going to do because 
 
 
   # 15/07/25 6h
+
+
+  # 16/07/25 5h
+   trust me i did stuff but this is another i stayed up till 12 situation so ill update this later the tldr is the base of the case is more or less done its just design stuff left
+   
   cleaned up the pcb specifically wiring everything to the pico, drc, and silk screen( i added so many easter eggs) i also posted the pcb to the atlier discord server for feedback and implemented that
 
   # 16/07/25 14h
