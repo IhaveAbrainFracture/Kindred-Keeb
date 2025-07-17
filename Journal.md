@@ -19,5 +19,11 @@ i more or less spent this day just brainstorming what i was going to do because 
 
   # 16/07/25 5h
    trust me i did stuff but this is another i stayed up till 12 situation so ill update this later the tldr is the base of the case is more or less done its just design stuff left
-   
+
+   # 17/07/25
+
+  this entry got deleted so like gotta add stuff
+
+  # 18/07/25
+  im going to sleep instead i swear update soon
   
