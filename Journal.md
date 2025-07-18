@@ -1,6 +1,11 @@
+---
+title: "Kindred Keeb"
+author: "TheVirtuoso (me)"
+description: "A keyboard that thematicaly fits the charecter kindred from lol"
+created_at: "13/07/25"
+---
 
-
-
+total hours ~ 45  (these hours are like not locked in locked in hours cos i was very non strict in time in reality this project could be done in 30h)
 
 # background information that you may want to know to that some things make more sense
 - kindred is a league of legends charecter who lore wise in just death
@@ -14,7 +19,7 @@
 
  OLD: so i've been procrastinating making and updating the journal for the first few days because just like today (15/07/25) ive staid up till 12pm to work on stuff either way ill recap the last 2 days which had me working on electronics (PCB)
 
-# 13/07/25 1h
+# 13/07/25 2h
 Old : i more or less spent this day just brainstorming what i was going to do because i knew i was going to make a custom keyboard for my gf but i didnt know what to theme it off of ect i came to the following conclusions after a hour of brainstorming
  - the keyboard is going to be based on a game preferably one with chatecters so i can theme it off her "main"
  - options include: Kindred, Cypher, kai'sa, The Engineneer and Clove
@@ -68,7 +73,7 @@ with silk it looks like this
 - Explaination of silk (she loves cats, use to main cypher in valorant hence the abilitys in the corners, currently is training in kendo, and the kindred mask exists)
 i also put stuff into the atelier discord for review and implemented that feedback.( to anyone who wants to also make a keyboard my suggestion is to pick the ai03 footprints and stick to them)
 
-  # 15/07/25 14h
+  # 15/07/25 10h
  OLD: i spend way to long cadding to make the case and all, ill add more stuff her later but its 12:30 and i need to get sleep cos i got stuff to do so ill update this with tmmrws update, ill also add photots and clean up spelling 
 
 New: this day was spent cadding and designing i more or less spent this day messing around with cad stuff but the issue is i dont rly haev anything so show since i didnt take any screenshots so heres my proof
@@ -88,7 +93,7 @@ we love onshape history
 
 
 
-   # 17/07/25
+   # 17/07/25 15h
 
  OLD:  this entry got deleted so like gotta add stuff
 New: so this carries on to the next entry since i wrote 18 cos it was 1 am either way this day i finished all is not most of the design/cosmetic stuff best shown though photos, ill also be explaining some of the cool things
@@ -123,7 +128,7 @@ these are lol runes and are also the best/ most common rune build for kindred
 FOAMMMMMM!!!!!
 
 
-  # 18/07/25
+  # 18/07/25 3h
   OLD: im going to sleep instead i swear update soon
 
   # 18/07/25 4h
