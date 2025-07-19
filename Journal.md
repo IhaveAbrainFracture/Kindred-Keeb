@@ -8,7 +8,7 @@ created_at: "13/07/25"
 total hours ~ 45  (these hours are like not locked in locked in hours cos i was very non strict in time in reality this project could be done in 30h)
 
 # background information that you may want to know to that some things make more sense
-- kindred is a league of legends charecter who lore wise in just death
+- kindred is a league of legends charecter who lore wise is just death
 - the idea is when someone is about to die they can choose to me killed swiftly by lamb's bow or resist dead and fight wolf in more or less a bloodbath
 - in the game one of her core mechanics is the mark of the hunted which is a big target sign
 - in lol after picking a charecter you pick runes which slightly modify a charecter
@@ -136,3 +136,6 @@ OLD: gues what its not 12 an im done so i can spend time now cleaning the github
 
 New: i didnt do too much other than clean the github and start and finish firmware which is here: (funny story i was doing firmware while in the hospital)
 <img width="1616" height="958" alt="image" src="https://github.com/user-attachments/assets/fe348e8f-4002-42e9-aa86-c3b373a8d364" />
+
+# 19/07/25
+did bom and prob gonna submit today not counting time towards project
