@@ -73,7 +73,7 @@ View the full cad here (open in a new tab) : https://cad.onshape.com/documents/4
 Total: 
 
 
-AUD: 181.82
+AUD: 181.82 (WITH SHIPPING)
 
 
-USD:118.84
+USD:118.84 (WITH SHIPPING)
